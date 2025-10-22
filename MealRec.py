@@ -4,7 +4,7 @@ import os
 from typing import Dict, List
 
 """
-Mealrec.py - Simple meal recommendation CLI app
+Mealrec.py - meal recommendation CLI app
 
 Usage:
     python Mealrec.py
